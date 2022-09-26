@@ -1,3 +1,9 @@
 .picture {
   border-radius: 50%;
 }
+
+.water {
+  border-radius: 8px;
+}
+
+
