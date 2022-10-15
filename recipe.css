@@ -7,20 +7,32 @@ body {
 }
 
 h2 {
+
   font-family: sans-serif;
 }
 
 p {
+
   color: blue;
 }
 
 ul {
   text-transform: capitalize;
+
 }
 
+h3 {
+  left: 50%;
+  margin-left: 500px;
+  margin-top: -650px;
+
+
+}
 
 ol {
-  margin: inherit;
+  margin-left: 500px;
+  top: 100%;
+  color: blue;
 }
 
 ul {
@@ -31,4 +43,18 @@ ol {
   color: indianred;
 }
 
+p{
+  position:absolute; left:30px; bottom:-160px; 
 
+}
+
+a{
+  position:absolute; left:30px; bottom:-200px; 
+  link color: indianred; 
+  visited color: purple; 
+  link hover color: green; 
+  visited hover color: red; 
+}
+
+
+ 
