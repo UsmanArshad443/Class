@@ -1,0 +1,73 @@
+body { 
+	background-color: black;
+	background-image: url(C:/Users/Usman/Downloads/fire.jpeg);
+	color: black;
+	font-family: fantasy;, sans-serif;, sans-serif;   
+}
+
+div { 
+	background-color: indianred;
+	background-image: url(C:/Users/Usman/Downloads/wave.jpg);
+	background-size: 150px;
+	margin: auto;
+	width: 50%;
+	min-width: 500px;
+	max-width: 2000px;
+	min-height: 1000px;
+} 
+img {
+	padding: 0;
+	margin: 13px;
+	border: 2px solid ;
+	width: 60%;
+	min-width: 200px;
+	min-height: 400px;
+}
+ 
+header { background-color: lightpink; 
+		 text-align: center; 
+		 padding: 3px;
+		 font-family: fantasy; ;
+}
+h1 { 
+	font-size: 5; 
+	color: black; 
+	
+}
+h2 { 
+	color: steelblue; 
+	  display: table; 
+    margin: 0px auto 0px auto; 
+    padding:5px;font-size:20px;background-color:beige;
+}
+nav { 
+	font-weight: bold; 
+	text-align: center;
+	font-size: 2.0;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	background-color: Black;
+	border-bottom: 3px solid;
+}
+a {
+	color: lightgreen;
+}
+a:hover {
+	color: orangered;
+}
+main { 
+       padding: 3em;
+}
+
+p{
+
+ display: table; 
+    margin: 0px auto 0px auto; 
+    padding:5px;font-size:20px;background-color:beige;
+}
+
+
+}
+.center {
+	text-align: center;
+}
